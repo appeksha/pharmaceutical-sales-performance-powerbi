@@ -115,13 +115,13 @@ The overall workflow followed was:
 ## Dashboard Preview
 
 Executive Overview
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive Overview](Executive_Overview.png)
 
 Product & Territory Performance
-![Product & Territory Performance](Screenshots/Product_Territory_Performance.png)
+![Product & Territory Performance](Product_Territory_Performance.png)
 
 Sales Representative Performance
-![Sales Representative Performance](Screenshots/Sales_Representative_Performance.png)
+![Sales Representative Performance](Sales_Representative_Performance.png)
 
 ## Project Learning
 
